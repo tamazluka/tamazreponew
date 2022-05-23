@@ -4,7 +4,7 @@
     "keywords": ["Deploy"],
     "env": {
         "GLOBAL_USER": {
-            "description": "Username for all web services except qbit",
+            "description": "Username for all web services",
             "value": "admin"
         },        
         "GLOBAL_PASSWORD": {
